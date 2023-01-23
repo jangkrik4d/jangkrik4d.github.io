@@ -7,6 +7,10 @@ body {
     font-family: 'Open Sans', sans-serif;
 }
 
+.table td, .table th {
+    border-top: 1px solid #b0b3b8 !important;
+}
+
 a {
     color: #e4e6eb;
     transition: all .3s;
