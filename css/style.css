@@ -11,6 +11,10 @@ body {
     border-top: 1px solid #b0b3b8 !important;
 }
 
+.card-body {
+    padding: 0.25rem !important;
+}
+
 a {
     color: #e4e6eb;
     transition: all .3s;
